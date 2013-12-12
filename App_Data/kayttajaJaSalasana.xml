@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kayttajat>
+  <kayttaja>
+    <kayttajatunnus>teppo</kayttajatunnus>
+    <salasana>Testaaja</salasana>
+    <kayttaja>
+      <kayttajatunnus>Musti</kayttajatunnus>
+      <salasana>5245fc38a0266f46e3570f531abda55f</salasana>
+    </kayttaja>
+    <kayttaja>
+      <kayttajatunnus>Iivo</kayttajatunnus>
+      <salasana>21b4e458ea26d540a3592480b5be7a79</salasana>
+    </kayttaja>
+    <kayttaja>
+      <kayttajatunnus>Tero</kayttajatunnus>
+      <salasana>2f8fc1c63798afa3e033916b1c7aa221</salasana>
+    </kayttaja>
+    <kayttaja>
+      <kayttajatunnus>Ville</kayttajatunnus>
+      <salasana>6a52de0aae1e9c0750ca4d9bdcbe68c4</salasana>
+    </kayttaja>
+  </kayttaja>
+  <kayttaja>
+    <kayttajatunnus>testi</kayttajatunnus>
+    <salasana>b23903b3a0afe37605c9586afc158c88</salasana>
+  </kayttaja>
+  <kayttaja>
+    <kayttajatunnus>testi2</kayttajatunnus>
+    <salasana>a2e04ab3c30b83003dc8b59cebe0aa89</salasana>
+  </kayttaja>
+</kayttajat>
